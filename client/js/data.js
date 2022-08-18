@@ -13,7 +13,7 @@ const
 		{color:"RED",text:"Remix Retro PVP"},
 		
 		
-		{small:true,color:"BLACK",text:"RemixWorlds.com"}
+		{small:true,color:"BLACK",text:"<a target=_blank href='https://remixworlds.com'>RemixWorlds.com</a>"}
 	],
 
 	// Font custom symbols
