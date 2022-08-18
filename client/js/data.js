@@ -7,36 +7,13 @@ const
 	STORAGE_PREFIX="PVPX2-",
 
 	// Credits
-	FOOTERCREDITS=["Player Versus Player "+VERSION+" - (c)2020","kesiev.com/pvp - github.com/kesiev/pvp"];
-	FOOTERHTMLCREDITS="Player Versus Player "+VERSION+" &dash; &copy;2018-2020 &dash; <a target=_blank href='https://kesiev.com/pvp/'>kesiev.com/pvp</a> &dash; <a target=_blank href='https://github.com/kesiev/pvp'>github.com/kesiev/pvp</a>";
+	FOOTERCREDITS=["Remix Retro PVP "+VERSION+" - (c)2022","RemixWorlds.com"];
+	FOOTERHTMLCREDITS="Remix Retro PVP "+VERSION+" &dash; &copy;2022 &dash; <a target=_blank href='https://play.remixworlds.com'>RemixWorlds Dashboard</a> &dash; <a target=_blank href='https://waxio.io/'>WAX Gaming Dashboard</a>";
 	FULLCREDITS=[
-		{color:"RED",text:"Player Versus Player"},
-		{small:true,color:"WHITE",text:"kesiev.com/pvp - github.com/kesiev/pvp"},
-		{gap:2},
-		{gap:1,color:"YELLOW",text:"JS code, gfx, game design, maps, test"},
-		{small:true,color:"WHITE",text:"KesieV - kesiev.com"},
-		{gap:2},
-		{gap:1,color:"YELLOW",text:"Game design, maps, test"},
-		{small:true,color:"WHITE",text:"Bianca - linearkey.net"},
-		{gap:2},
-		{gap:1,color:"YELLOW",text:"Fonts"},
-		{small:true,color:"WHITE",text:"Tom Thumb Tiny ASCII font / NFO Font 6x8"},
-		{gap:2},
-		{gap:1,color:"YELLOW",text:"Sfx, voice, music"},
-		{small:true,color:"WHITE",text:"PvP theme: Her Kiss by Drozerix"},
-		{small:true,color:"WHITE",text:"Sound effects: CC0 sounds - opengameart.org"},
-		{small:true,color:"WHITE",text:"Music: Browse Settings/Audio/Music for more"},
-		{gap:2},
-		{gap:1,color:"YELLOW",text:"Software libraries/techs"},
-		{small:true,color:"WHITE",text:"Voice: SamJs.js - github.com/discordier/sam"},
-		{small:true,color:"WHITE",text:"Modplayer: jsxm - github.com/a1k0n/jsxm"},
-		{small:true,color:"WHITE",text:"Netplay addon uses: socket.io / node.js / peerjs"},
-		{gap:2},
-		{gap:1,color:"YELLOW",text:"Thanks to"},
-		{small:true,color:"WHITE",text:"The Kusagari - Sergio - Gaia - Nicoletta - Lode's Raycaster Tutorial"},
-		{small:true,color:"WHITE",text:"NinJoe - Morpheus - Clara - josh - Daninat - Tostao - edo9k"},
-		{gap:2},
-		{small:true,color:"BLACK",text:"PvP is MIT/GPLv3 licensed"}
+		{color:"RED",text:"Remix Retro PVP"},
+		
+		
+		{small:true,color:"BLACK",text:"RemixWorlds.com"}
 	],
 
 	// Font custom symbols
